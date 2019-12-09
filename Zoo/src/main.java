@@ -53,7 +53,7 @@ public class main extends Applet implements Runnable {
         this.X = (this.getX() + this.getWidth()) / 2;
         this.Y = (this.getY() + this.getHeight()) / 2;
         title.setTitle("A VISIT TO THE ZOO");
-        h.setS(0.5);
+        h.setS(0.5); // change this to change the size of the robot (at your own risk)
     }
 
     @Override

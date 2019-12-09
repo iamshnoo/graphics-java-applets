@@ -87,6 +87,7 @@ class Line
         }
     }
     
+    // This doesn't work probably. I am not sure.
     public void Midpoint (Graphics g, int X, int Y, int gap, double x0, double y0, double x1, double y1, Color c)
     {
         // calculate dx and dy
